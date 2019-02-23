@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.13)
+cmake_minimum_required(VERSION 3.6)
 project(ptrace_test)
 
 set(CMAKE_VERBOSE_MAKEFILE "ON")
